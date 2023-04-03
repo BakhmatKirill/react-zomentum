@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/BakhmatKirill.github.io/react-zomentum/static/css/main.a5a812b6.css",
+    "main.js": "/BakhmatKirill.github.io/react-zomentum/static/js/main.7fe45103.js",
+    "static/media/logo.svg": "/BakhmatKirill.github.io/react-zomentum/static/media/logo.79509cf513475c814c8369d47e1a561b.svg",
+    "static/media/histogram.svg": "/BakhmatKirill.github.io/react-zomentum/static/media/histogram.3c0aa1c4b9336e7ac0ed120896d25ebe.svg",
+    "static/media/list.svg": "/BakhmatKirill.github.io/react-zomentum/static/media/list.0fbd9ce0c6aa7251369d7c205d1ba459.svg",
+    "static/media/search.svg": "/BakhmatKirill.github.io/react-zomentum/static/media/search.5cc783a9cd969cf94eeece7775efd3db.svg",
+    "static/media/triangles.svg": "/BakhmatKirill.github.io/react-zomentum/static/media/triangles.649339f9c9c31b2c87c1.svg",
+    "index.html": "/BakhmatKirill.github.io/react-zomentum/index.html",
+    "main.a5a812b6.css.map": "/BakhmatKirill.github.io/react-zomentum/static/css/main.a5a812b6.css.map",
+    "main.7fe45103.js.map": "/BakhmatKirill.github.io/react-zomentum/static/js/main.7fe45103.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5a812b6.css",
+    "static/js/main.7fe45103.js"
+  ]
+}
